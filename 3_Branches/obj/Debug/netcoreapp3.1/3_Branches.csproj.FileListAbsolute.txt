@@ -1,0 +1,13 @@
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/obj/Debug/netcoreapp3.1/3_Branches.csprojAssemblyReference.cache
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/obj/Debug/netcoreapp3.1/3_Branches.AssemblyInfoInputs.cache
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/obj/Debug/netcoreapp3.1/3_Branches.AssemblyInfo.cs
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/obj/Debug/netcoreapp3.1/3_Branches.csproj.CoreCompileInputs.cache
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/bin/Debug/netcoreapp3.1/3_Branches
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/bin/Debug/netcoreapp3.1/3_Branches.deps.json
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/bin/Debug/netcoreapp3.1/3_Branches.runtimeconfig.json
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/bin/Debug/netcoreapp3.1/3_Branches.runtimeconfig.dev.json
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/bin/Debug/netcoreapp3.1/3_Branches.dll
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/bin/Debug/netcoreapp3.1/3_Branches.pdb
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/obj/Debug/netcoreapp3.1/3_Branches.dll
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/obj/Debug/netcoreapp3.1/3_Branches.pdb
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/3_Branches/obj/Debug/netcoreapp3.1/3_Branches.genruntimeconfig.cache
