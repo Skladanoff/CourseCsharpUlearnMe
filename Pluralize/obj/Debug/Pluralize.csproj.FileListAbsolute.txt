@@ -1,0 +1,8 @@
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/Pluralize/bin/Debug/rubles.txt
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/Pluralize/bin/Debug/Pluralize.exe.config
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/Pluralize/bin/Debug/Pluralize.exe
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/Pluralize/bin/Debug/Pluralize.pdb
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/Pluralize/obj/Debug/Pluralize.csprojAssemblyReference.cache
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/Pluralize/obj/Debug/Pluralize.csproj.CoreCompileInputs.cache
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/Pluralize/obj/Debug/Pluralize.exe
+/home/mii/GitHub/Courses/CourseCsharpUlearnMe/Pluralize/obj/Debug/Pluralize.pdb
