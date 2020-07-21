@@ -1,0 +1,9 @@
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\AngryBirds\AngryBirds.csproj\obj\Debug\AngryBirds.csprojAssemblyReference.cache
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\AngryBirds\AngryBirds.csproj\obj\Debug\AngryBirds.csproj.CoreCompileInputs.cache
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\AngryBirds\AngryBirds.csproj\bin\Debug\AngryBirds.exe.config
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\AngryBirds\AngryBirds.csproj\bin\Debug\AngryBirds.exe
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\AngryBirds\AngryBirds.csproj\bin\Debug\AngryBirds.pdb
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\AngryBirds\AngryBirds.csproj\bin\Debug\TestingRoom.dll
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\AngryBirds\AngryBirds.csproj\obj\Debug\AngryBirds.csproj.CopyComplete
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\AngryBirds\AngryBirds.csproj\obj\Debug\AngryBirds.exe
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\AngryBirds\AngryBirds.csproj\obj\Debug\AngryBirds.pdb

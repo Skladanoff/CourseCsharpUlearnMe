@@ -1,0 +1,9 @@
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\Billiards\Billiards.csproj\bin\Debug\Billiards.exe.config
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\Billiards\Billiards.csproj\bin\Debug\Billiards.exe
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\Billiards\Billiards.csproj\bin\Debug\Billiards.pdb
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\Billiards\Billiards.csproj\bin\Debug\TestingRoom.dll
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\Billiards\Billiards.csproj\obj\Debug\Billiards.csprojAssemblyReference.cache
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\Billiards\Billiards.csproj\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\Billiards\Billiards.csproj\obj\Debug\Billiards.csproj.CopyComplete
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\Billiards\Billiards.csproj\obj\Debug\Billiards.exe
+F:\Курсы\Downloads\dotNet\Ulearn\2_Errors\Billiards\Billiards.csproj\obj\Debug\Billiards.pdb

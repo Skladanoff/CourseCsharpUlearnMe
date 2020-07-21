@@ -1,0 +1,7 @@
+F:\Курсы\Downloads\dotNet\Ulearn\Pervoe znakomtvo\ConsoleApps\bin\Debug\ConsoleApps.exe.config
+F:\Курсы\Downloads\dotNet\Ulearn\Pervoe znakomtvo\ConsoleApps\bin\Debug\ConsoleApps.exe
+F:\Курсы\Downloads\dotNet\Ulearn\Pervoe znakomtvo\ConsoleApps\bin\Debug\ConsoleApps.pdb
+F:\Курсы\Downloads\dotNet\Ulearn\Pervoe znakomtvo\ConsoleApps\obj\Debug\ConsoleApps.csprojAssemblyReference.cache
+F:\Курсы\Downloads\dotNet\Ulearn\Pervoe znakomtvo\ConsoleApps\obj\Debug\ConsoleApps.csproj.CoreCompileInputs.cache
+F:\Курсы\Downloads\dotNet\Ulearn\Pervoe znakomtvo\ConsoleApps\obj\Debug\ConsoleApps.exe
+F:\Курсы\Downloads\dotNet\Ulearn\Pervoe znakomtvo\ConsoleApps\obj\Debug\ConsoleApps.pdb
